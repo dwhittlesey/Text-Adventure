@@ -1,1 +1,1 @@
-# test
+This Repository will contain 3 separate projects.  The first is an adventure game object encapsulating all game mechanics.  The second will be an adventure creation IDE like gui where the object, rooms and gameplay can be quickly created.  Finally a console project that uses the object with the creation files of the maker so a user can load, save and play the games.
