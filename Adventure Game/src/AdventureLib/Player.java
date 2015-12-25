@@ -13,8 +13,13 @@ public class Player {
 	private int Charisma = 10;
 	private int Speed = 10;
 	private int Encumberance = 0;
-	private int strength = 10;
+	private int Strength = 10;
 	private int Saiety = 100;
+	
+	
+	
+	
+	
 	int getHealth() {
 		return Health;
 	}
@@ -28,10 +33,10 @@ public class Player {
 		Saiety = saiety;
 	}
 	int getStrength() {
-		return strength;
+		return Strength;
 	}
 	void setStrength(int strength) {
-		this.strength = strength;
+		this.Strength = strength;
 	}
 	int getEncumberance() {
 		return Encumberance;
