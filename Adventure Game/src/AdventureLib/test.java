@@ -1,5 +1,7 @@
 package AdventureLib;
 
+import java.io.Console;
+
 public class test {
 
 	public static void main(String[] args) {
@@ -12,8 +14,9 @@ public class test {
 		
 		x++;
 		
-		
+		System.out.println("Hello, world  " + x);
 
+	
 	}
 
 }
